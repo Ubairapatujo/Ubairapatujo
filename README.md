@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Ubaira%20Patujo&fontSize=45&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=BCIT%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Ubairapatujo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+one+project+at+a+time;Java+%2B+Spring+Boot+%2B+SQL+Server;Learning+Flutter+%2B+Dart;Currently+working+on+Bella+Bites+%26+EcpliseStudy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=500&lines=Building+full-stack+apps+one+project+at+a+time;Java+%2B+Spring+Boot+%2B+SQL+Server;Learning+Flutter+%2B+Dart;Currently+working+on+Bella+Bites+%26+EcpliseStudy" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -75,7 +75,7 @@ A C++ maze game built with SFML to practice pathfinding algorithms, with three d
 | Architecture | MVC |
 | Algorithms | DFS (generation), BFS (pathfinding) |
 
-[Code →](https://github.com/Ubairapatujo/Algomaze)
+[Code →](https://github.com/Ubairapatujo/AlgoMaze)
 
 <br/>
 
@@ -100,29 +100,6 @@ A C++ maze game built with SFML to practice pathfinding algorithms, with three d
 **Dev Tools**
 
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ubairapatujo&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubairapatujo&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Ubairapatujo&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ubairapatujo&theme=nord&no-frame=true&no-bg=true&margin-w=10"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ubairapatujo&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true"/>
-</div>
-
-<br/>
 
 ## Connect
 
