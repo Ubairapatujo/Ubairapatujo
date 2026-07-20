@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Ubaira%20Patujo&fontSize=45&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=BCIT%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Ubairapatujo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+one+project+at+a+time;Java+%2B+Spring+Boot+%2B+SQL+Server;Learning+Flutter+%2B+Dart;Currently+working+on+Bella+Bites+%26+Ecplise study" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+one+project+at+a+time;Java+%2B+Spring+Boot+%2B+SQL+Server;Learning+Flutter+%2B+Dart;Currently+working+on+Bella+Bites+%26+EcpliseStudy" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@ const ubaira = {
   title: "BCIT Student | Full-Stack Developer in Progress",
   university: "NED University of Engineering & Technology, Karachi",
   stack: {
-    languages: ["C", "C++", "Java", "Python", "Dart"],
+    languages: ["C", "C++", "Java", "Dart"],
     backend: ["Spring Boot", "Spring Security", "Flask"],
     database: ["SQL Server", "MySQL", "sqflite"],
     mobile: ["Flutter"],
