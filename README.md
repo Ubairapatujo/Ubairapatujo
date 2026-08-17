@@ -1,19 +1,28 @@
-👋 Hi, I'm Ubaira Patujo
+<div align="center">
 
-BCIT Student • Full-Stack Developer in Progress • Flutter Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Ubaira%20Patujo&fontSize=45&fontColor=1a1a1a&animation=twinkling&fontAlignY=35&desc=BCIT%20Student%20%7C%20Full-Stack%20Developer%20in%20Progress&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
+<a href="https://github.com/Ubairapatujo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+one+project+at+a+time;Java+%2B+Spring+Boot+%2B+SQL+Server;Learning+Flutter+%2B+Dart;working+on+Bella+Bites+%26+EcpliseStudy" alt="Typing SVG" />
+</a>
 
-<a href="https://github.com/Ubairapatujo">{=html}<img src="https://img.shields.io/badge/GitHub-UbairaPatujo-181717?style=for-the-badge&logo=github&logoColor=white" />{=html}</a>{=html}<a href="https://www.linkedin.com/in/ubaira-patujo-a0bb56302/">{=html}<img src="https://img.shields.io/badge/LinkedIn-Ubaira%20Patujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}</a>{=html} <a href="mailto:ubaira3887@gmail.com">{=html}<img src="https://img.shields.io/badge/Gmail-ubaira3887%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />{=html}</a>{=html}
+<br/>
 
-</p>
+![Open to Work](https://img.shields.io/badge/Open%20to-Internships-7dd3fc?style=for-the-badge&logo=github&logoColor=white)
 
-✦ Who I Am
+<img src="https://komarev.com/ghpvc/?username=Ubairapatujo&label=Profile%20Views&color=7dd3fc&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Ubairapatujo?label=Followers&style=flat&color=7dd3fc" alt="followers" />
 
+</div>
+
+<br/>
+
+## Who I Am
+
+```typescript
 const ubaira = {
   title: "BCIT Student | Full-Stack Developer in Progress",
   university: "NED University of Engineering & Technology, Karachi",
-
   stack: {
     languages: ["C", "C++", "Java", "Dart"],
     backend: ["Spring Boot", "Spring Security", "Flask"],
@@ -21,198 +30,83 @@ const ubaira = {
     mobile: ["Flutter"],
     tools: ["Git", "GitHub", "VS Code", "Postman"]
   },
-
-  interests: [
-    "Full-Stack Development",
-    "Backend Development",
-    "Database Development",
-    "Mobile App Development"
-  ],
-
-  projects: [
-    "RecipeBook",
-    "Bella Bites",
-    "AlgoMaze",
-    "Smart City Complaint Tracker"
-  ],
-
+  launchedProjects: ["Bella Bites", "AlgoMaze", "Smart City Complaint Tracker"],
+  certifications: ["Cyber Job Simulation – Deloitte (via Forage)"],
   status: "learning full-stack & database development, one project at a time",
-
-  openTo: [
-    "Internships",
-    "Entry-level roles",
-    "Collaboration"
-  ]
+  openTo: ["Internships", "Entry-level roles", "Collaboration"]
 };
+```
 
-✦ Featured Projects
+<br/>
 
-🍳 RecipeBook
+## Featured Projects
 
-Full-Stack Recipe Sharing Application
+### Bella Bites — Bakery Management System
 
-A full-stack recipe sharing project built to explore the complete flowbetween a Flutter frontend, Spring Boot backend, authentication, APIs,and SQL Server database.
+<a href="https://github.com/Ubairapatujo/Bella-Bites">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ubairapatujo&repo=Bella-Bites&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="Bella Bites repo card"/>
+</a>
 
-Layer          Technology
+My first full-stack project — built to understand how a database, backend, and frontend actually connect and work together.
 
-Frontend   FlutterBackend    Java • Spring BootDatabase   SQL ServerSecurity   Spring Security • JWT • BCrypt
+| Layer | Technology |
+|---|---|
+| Frontend | HTML5, CSS3, Vanilla JavaScript |
+| Backend | Java, Spring Boot |
+| Database | SQL Server |
+| Security | Spring Security (role-based access) |
 
-View Repository →
+[Code →](https://github.com/Ubairapatujo/Bella-Bites)
 
-🍰 Bella Bites
+<br/>
 
-Bakery Management System
+### AlgoMaze — Interactive Maze Generator & Solver
 
-My first full-stack project --- built to understand how a frontend,backend, database, and security layer connect to form a completeapplication.
+<a href="https://github.com/Ubairapatujo/Algomaze">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ubairapatujo&repo=Algomaze&theme=nord&border_color=7dd3fc&title_color=7dd3fc" alt="AlgoMaze repo card"/>
+</a>
 
-Layer                Technology
+A C++ maze game built with SFML to practice pathfinding algorithms, with three difficulty levels.
 
-Frontend         HTML5 • CSS3 • Vanilla JavaScriptBackend          Java • Spring BootDatabase         SQL ServerSecurity         Spring SecurityAccess Control   Role-Based Access
+| Layer | Technology |
+|---|---|
+| Language | C++ |
+| Graphics | SFML 3.0 |
+| Architecture | MVC |
+| Algorithms | DFS (generation), BFS (pathfinding) |
 
-View Repository →
+[Code →](https://github.com/Ubairapatujo/AlgoMaze)
 
-🧩 AlgoMaze
+<br/>
 
-Interactive Maze Generator & Solver
+## Tech Stack
 
-A C++ maze game developed with SFML to practice maze generation,pathfinding, algorithms, and MVC architecture.
+**Languages**
 
-Layer              Technology
+![Skills](https://skillicons.dev/icons?i=c,cpp,java,python,dart)
 
-Language       C++Graphics       SFML 3.0Architecture   MVCGeneration     DFSPathfinding    BFS
+**Backend**
 
-View Repository →
+![Skills](https://skillicons.dev/icons?i=spring,flask)
 
-🏙️ Smart City Complaint & Civic Issue Tracking System
+**Database**
 
-A university group project focused on designing a structured databasesystem for managing civic complaints and issue tracking.
+![Skills](https://skillicons.dev/icons?i=mssql,mysql,sqlite)
 
-Layer             Technology
+**Mobile**
 
-Backend       FlaskDatabase      MySQLDesign        ER / EER • NormalizationDevelopment   Python • SQLTeam          4 Members
+![Skills](https://skillicons.dev/icons?i=flutter)
 
-📝 Online Examination System
+**Dev Tools**
 
-A console-based examination management system developed in C++ as auniversity group project.
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
-Feature              Implementation
+## Connect
 
-Language         C++Programming      Object-Oriented ProgrammingAuthentication   Student LoginManagement       Questions • ExamsResults          Automatic Calculation & ReportingTeam             4 Members
+<div align="center">
 
-✦ Other Projects
+[![Gmail](https://img.shields.io/badge/Email-ubaira3887%40gmail.com-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubaira3887@gmail.com)
 
-Project                         Technology   Focus
+</div>
 
-Library Management System   C++          File Handling • CRUDHangman Game                C            Strings • Control StructuresCalculator                  C            CLI • Menu-driven Programming
-
-✦ Tech Stack
-
-Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,dart" />{=html}
-
-</p>
-
-Backend & Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring,flask" />{=html}
-
-</p>
-
-Mobile
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter" />{=html}
-
-</p>
-
-Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />{=html}<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />{=html}
-
-</p>
-
-Development Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />{=html}
-
-</p>
-
-✦ Core Concepts
-
-<p>
-
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-6C8EBF?style=for-the-badge" />{=html}<img src="https://img.shields.io/badge/Data%20Structures-8FD3F4?style=for-the-badge&labelColor=1F2937" />{=html}<img src="https://img.shields.io/badge/Algorithms-7FB3A8?style=for-the-badge" />{=html}<img src="https://img.shields.io/badge/Database%20Design-9B8FC4?style=for-the-badge" />{=html}<img src="https://img.shields.io/badge/REST%20APIs-6C8EBF?style=for-the-badge" />{=html}<img src="https://img.shields.io/badge/File%20Handling-8FD3F4?style=for-the-badge&labelColor=1F2937" />{=html}<img src="https://img.shields.io/badge/Assembly%20%28EMU8086%29-7FB3A8?style=for-the-badge" />{=html}
-
-</p>
-
-✦ Certifications
-
-🤖 Claude Code 101
-
-Anthropic
-
-Certificate of completion for Claude Code 101.
-
-✨ AI Fluency for Small Businesses
-
-PayPal × Anthropic
-
-Certificate of completion focused on AI fluency for small-businessapplications.
-
-🛡️ Cyber Job Simulation
-
-Deloitte × Forage
-
-Completed Deloitte's practical cybersecurity job simulation.
-
-📱 Mobile App Development with Flutter
-
-Udemy
-
-Certificate in Mobile App Development with Flutter.
-
-✦ Activities & Community
-
-🏆 Intra-University Coding Competition --- Participant
-
-⚡ KODERZ KOMBAT Coding Competition --- Participant, 3-memberteam
-
-🎓 ICONICS Workshops --- Attendee, NED University
-
-✦ Currently Learning
-
-Full-Stack Development
-        ↓
-Backend Development
-        ↓
-Database Design & SQL
-        ↓
-REST APIs
-        ↓
-Flutter Development
-        ↓
-Building Real-World Projects
-
-Learning by building --- one project at a time.
-
-✦ Connect
-
-<p align="center">
-
-<a href="https://github.com/Ubairapatujo">{=html}<img src="https://img.shields.io/badge/GitHub-UbairaPatujo-181717?style=for-the-badge&logo=github&logoColor=white" />{=html}</a>{=html}<a href="https://www.linkedin.com/in/ubaira-patujo-a0bb56302/">{=html}<img src="https://img.shields.io/badge/LinkedIn-Ubaira%20Patujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />{=html}</a>{=html} <a href="mailto:ubaira3887@gmail.com">{=html}<img src="https://img.shields.io/badge/Gmail-ubaira3887%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />{=html}</a>{=html}
-
-</p>
-
-::: {align="center"}
-
-✦ Build • Learn • Explore • Repeat ✦
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
